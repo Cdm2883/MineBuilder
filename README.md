@@ -1,4 +1,4 @@
-![MineBuilder](https://socialify.git.ci/Cdm2883/MineBuilder/image?description=1&font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fgithub.com%2FCdm2883%2FMineBuilder%2Fblob%2Fmaster%2Flogo.png%3Fraw%3Dtrue&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto)
+![MineBuilder](https://socialify.git.ci/Cdm2883/MineBuilder/image?description=1&font=Inter&forks=1&issues=1&logo=https%3A%2F%2Fgithub.com%2FCdm2883%2FMineBuilder%2Fblob%2Fmaster%2Flogo_256x256.png%3Fraw%3Dtrue&name=1&owner=1&pattern=Brick%20Wall&pulls=1&stargazers=1&theme=Auto)
 # MineBuilder
 [![status](https://img.shields.io/github/actions/workflow/status/Cdm2883/MineBuilder/build.yml?style=for-the-badge)](https://github.com/Cdm2883/MineBuilder/actions)
 [
